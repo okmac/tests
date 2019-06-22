@@ -1,5 +1,52 @@
 # Dressage Test Analysis
 
+## First Level
+
+|   Category   |     Movement     | First 1   | First 2   | First 3  |
+| -------------|------------------|-----------|-----------|----------|
+|  Halt        |                  |           |           |          |
+|              |  Centerline      |  6.9%     |  5.7%     |   5.6%   |
+|  Lengthening |                  |           |           |          |
+|              |  Trot            |  6.9%     |  5.7%     |   5.6%   |
+|              | Trot Transition  |           |           |          |
+|              |  Canter          |  6.9%     |  11.4%    |   5.6%   |
+|              |Canter Transition |           |  5.7%     |   5.6%   |
+|  Lateral     |                  |           |           |          |
+|              | Leg yield        |           |  11.4%    |   11.1%  |
+|  Walk        |                  |           |           |          |
+|              | Free Walk        |   6.9%    |  5.7%     |   5.6%   |
+|              | Medium Walk      |   6.9%    |  5.7%     |   5.6%   |
+|  Transition  |                  |           |           |          |
+|              | Trot to Canter   |   13.8%   |  5.7%     |   2.8%   |
+|              | Canter to Trot   |   6.9%    |  5.7%     |   2.8%   |
+|              | Simple Change    |           |           |   2.8%   |
+|  Circle      |                  |           |           |          |
+|              | 15 meter Canter  |   6.9%    |  5.7%     |   5.6%   |
+|              | 10 meter Trot    |           |           |   5.6%   |
+|              | 1/2 circle Trot  |           |  5.7%     |          |
+|              |Double Trot Circle|           |           |          |
+|Trot          |                  |           |           |          |
+|              | Tear Drop        |   6.9%    |           |          |
+|              |Stretch Trot Circle|  3.4%    |  5.7%     |   5.6%   |
+|  Canter      |                  |           |           |          |
+|              |One Loop Counter Canter|      |           |   11.1%  |
+
+### First 1
+- turn left after centerline
+- first canter is left lead
+- lengthen on short diagonals
+
+### First 2
+- turn right after centerline
+- first canter is left lead
+- lengthen on short diagonals
+
+### First 3
+- turn left after centerline
+- first canter is left lead
+- lengthen on long diagonals
+- counter canter one loop
+
 ## Second Level
 
 |   Category   |     Movement     | Second 1  | Second 2  | Second 3 |
