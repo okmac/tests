@@ -8,7 +8,6 @@
 |              |  Centerline      |  6.9%     |  5.7%     |   5.6%   |
 |  Lengthening |                  |           |           |          |
 |              |  Trot            |  6.9%     |  5.7%     |   5.6%   |
-|              | Trot Transition  |           |           |          |
 |              |  Canter          |  6.9%     |  11.4%    |   5.6%   |
 |              |Canter Transition |           |  5.7%     |   5.6%   |
 |  Lateral     |                  |           |           |          |
@@ -24,7 +23,6 @@
 |              | 15 meter Canter  |   6.9%    |  5.7%     |   5.6%   |
 |              | 10 meter Trot    |           |           |   5.6%   |
 |              | 1/2 circle Trot  |           |  5.7%     |          |
-|              |Double Trot Circle|           |           |          |
 |Trot          |                  |           |           |          |
 |              | Tear Drop        |   6.9%    |           |          |
 |              |Stretch Trot Circle|  3.4%    |  5.7%     |   5.6%   |
