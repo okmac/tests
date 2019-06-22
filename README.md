@@ -34,6 +34,23 @@
 | Serpentine   |                  |           |           |          |
 |              | Canter Serpentine|           |    2.4%   |          |
 
+### Second 1
+- turn left after centerline
+- first canter is right lead
+- canter lengthenings partial long side
+- trot lengthening short diagonals
+
+### Second 2
+- turn right after centerline
+- trot lengthening final centerline
+- first canter is left lead
+- has canter serpentine with simple changes through walk
+
+### Second 3
+- turn left after centerline
+- lengthenings are long diagonals
+- first canter is left lead
+
 ## Third Level
 
 |   Category   |     Movement     | Third 1   | Third 2   | Third 3  |
@@ -64,3 +81,21 @@
 |              |Double Trot Circle|           |           |  5%      |
 | Flying Change|                  |           |           |          |
 |              | Flying Change    |  10.8%    |  10.5%    |  10%     |
+
+### Third 1
+- turn left after centerline
+- first canter is right lead
+- lengthenings are long sides and diagonals
+= starts with a lateral tear-drop pattern
+- extended walk then turn on haunches
+
+### Third 2
+- turn right after centerline
+- first canter is right lead
+- turn on haunches then extended walk
+
+### Third 3
+- turn left after centerline
+- first canter is left lead
+- turn on haunches then extended walk
+- only one canter lengthening, lengthening is left lead
