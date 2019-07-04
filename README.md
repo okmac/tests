@@ -25,9 +25,10 @@
 |              | 1/2 circle Trot  |           |  5.7%     |          |
 |Trot          |                  |           |           |          |
 |              | Tear Drop        |   6.9%    |           |          |
-|              |Stretch Trot Circle|  3.4%    |  5.7%     |   5.6%   |
+|              |Stretch Trot Circle|  6.9%    |  5.7%     |   5.6%   |
 |  Canter      |                  |           |           |          |
 |              |One Loop Counter Canter|      |           |   11.1%  |
+|Collective Marks|                | 24.1%     | 20%       | 19.4%    |
 
 ### First 1
 - turn left after centerline
@@ -68,7 +69,7 @@
 |              | Walk to Canter   |  8.1%     |   2.4%    |  2.4%    |
 |              |Canter-trot-walk  |  5.4%     |           |          |
 |              | Canter to Trot   |  2.7%     |   2.4%    |  2.4%    |
-|              | Simple Changes   |           |   2.4%    |  9.5%    |
+|              | Simple Changes   |           |           |  9.5%    |
 |              |Serpentine Trans. |           |   7.3%    |          |
 |  Circle      |                  |           |           |          |
 |              | 10 meter Canter  |  5.4%     |           |          |
@@ -78,6 +79,7 @@
 |              | Counter Canter   |  10.8%    |    9.8%   |  4.8%    |
 | Serpentine   |                  |           |           |          |
 |              | Canter Serpentine|           |    2.4%   |          |
+|Collective Marks|                |  18.9%    |    17.1%  |  16.7%   |
 
 ### Second 1
 - turn left after centerline
@@ -126,6 +128,7 @@
 |              |Double Trot Circle|           |           |  5%      |
 | Flying Change|                  |           |           |          |
 |              | Flying Change    |  10.8%    |  10.5%    |  10%     |
+|Collective Marks|                |  18.9%    |  18.4%    |  17.5%   |
 
 ### Third 1
 - turn left after centerline
